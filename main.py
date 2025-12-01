@@ -44,7 +44,7 @@ def save_to_log(port, service, status):
 
 
 if __name__ == "__main__":
-    print("=== Сканер портов ===")
+    print("=== SECURITY PORT SCANNER v1.0 ===")
     target_host = "127.0.0.1"  # Сканируем свой же компьютер (безопасно)
 
     # Проверяем эти порты:
